@@ -6,15 +6,18 @@
 
 Need extra motivation to help you log the miles?  Watch you and your team progress on your way to Chicago, to San Francisco, to Tokyo, to the moon!
 
-* Pick a destination and start running
-** Madison to Miami -> 1,528.2 miles
-** Madison to San Francisco -> 2,086.2 miles
-** Madison to Tokyo -> 6,194 miles
-** Madison to the North Pol -> 3,250 miles
-** Madison to Madison AROUND THE WORLD -> 24,859.7 miles
-** Madison to the Moon!! -> 238,900 miles
+### Pick a destination and start running
+* Madison to Miami -> 1,528.2 miles
+* Madison to San Francisco -> 2,086.2 miles
+* Madison to Tokyo -> 6,194 miles
+* Madison to the North Pol -> 3,250 miles
+* Madison to Madison AROUND THE WORLD -> 24,859.7 miles
+* Madison to the Moon!! -> 238,900 miles
 
-* API ideas -- Meetup API, Google Calendar, Maps, Forms API, MapMyRun API
+### API ideas -- 
+* Meetup API 
+* Google Calendar, Maps, Forms API 
+* MapMyRun API
 
 ## DONE WHENS
 
