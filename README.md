@@ -4,7 +4,9 @@
 
 ### Project Pitch
 
-Need extra motivation to help you log the miles?  Watch you and your team progress on your way to Chicago, to San Francisco, to Tokyo, to the moon!
+Need extra motivation to help you log the miles?  
+Watch you and your team progress on your way to Chicago, to San Francisco, to Tokyo, to the moon!
+Similar to [Moon Jogger](http://www.moonjoggers.com/) but way better, and free!
 
 ### Pick a destination and start running
 * Madison to Miami -> 1,528.2 miles
