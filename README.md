@@ -31,16 +31,16 @@ Similar to [Moon Jogger](http://www.moonjoggers.com/) but way better, and free!
 
 ### Check in 1
 
-* User model is complete
+* User model is complete - DONE
 * User signup is complete
-* login/signup page is stubbed out
-* Bootstrap or Foundation is added
+* login/signup page is stubbed out - DONE
+* Bootstrap or Foundation is added - DONE
 * User dashboard page is stubbed out
-* Database design is complete
+* Database design is complete - DONE
 * DB is created
-* site mockups are complete
-* API's researched for feasibility
-* at least 1 test
+* site mockups are complete - DONE
+* API's researched for feasibility - DONE-ISH
+* at least 1 test - DONE
 
 ### Check in 2
 
