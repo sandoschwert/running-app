@@ -3,6 +3,7 @@
 ## A running progress tracker that encourages your team to run to an exotic desitination - virtually!
 
 ### Project Pitch
+Small change
 
 Need extra motivation to help you log the miles?  
 Watch you and your team progress on your way to Chicago, to San Francisco, to Tokyo, to the moon!
@@ -16,9 +17,9 @@ Similar to [Moon Jogger](http://www.moonjoggers.com/) but way better, and free!
 * Madison to Madison AROUND THE WORLD -> 24,859.7 miles
 * Madison to the Moon!! -> 238,900 miles
 
-### API ideas -- 
-* Meetup API 
-* Google Calendar, Maps, Forms API 
+### API ideas --
+* Meetup API
+* Google Calendar, Maps, Forms API
 * MapMyRun API
 
 ## DONE WHENS
@@ -33,7 +34,7 @@ Similar to [Moon Jogger](http://www.moonjoggers.com/) but way better, and free!
 * Database design is complete
 * DB is created
 * site mockups are complete
-* API's researced for feasibility
+* API's researched for feasibility
 * at least 1 test
 
 ### Check in 2
