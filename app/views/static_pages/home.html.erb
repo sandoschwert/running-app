@@ -1,12 +1,12 @@
 <% provide(:title, "Home") %>
+
 <div class="center jumbotron">
+  <%= link_to image_tag("moon-logo-small.jpg", alt: "Moon logo"),
+              'https://en.wikipedia.org/wiki/Moon' %>
   <h1>Run to the Moon</h1>
   <h3>Find your running community and together you'll go to the moon!</h3>
   <p>Need extra motivation to help you log the miles?
 Watch you and your team progress on your way to Chicago, to San Francisco, to Tokyo, to the moon!</p>
 <p>Run to the Moon! is a running progress tracker that encourages your team to run to an exotic desitination - virtually!</p>
-  <%= link_to "Let's Run!", '#', class: "btn btn-lg btn-primary" %>
+  <%= link_to "Let's Run!", signup_path, class: "btn btn-lg btn-primary" %>
 </div>
-
-<%= link_to image_tag("moon-logo-small.jpg", alt: "Moon logo"),
-            'https://en.wikipedia.org/wiki/Moon' %>
