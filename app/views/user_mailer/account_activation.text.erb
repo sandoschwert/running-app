@@ -1,0 +1,7 @@
+Hi <%= @user.name %>,
+
+Welcome to Run to the Moon! A fun app that brings your running group together to achieve a common goal.
+Soon you'll be logging miles and watching your progress as you virtually (or literally) run to a faraway destination.
+Click on the link below to activate your account:
+
+<%= edit_account_activation_url(@user.activation_token, email: @user.email) %>
